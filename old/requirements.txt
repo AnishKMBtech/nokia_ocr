@@ -4,7 +4,3 @@ paddlepaddle
 setuptools
 numpy
 requests
-transformers
-torch
-Pillow
-pytesseract
